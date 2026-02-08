@@ -1,4 +1,6 @@
-# Milestone4 Cub3D
+<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/0bc616d3-a197-41a6-bf55-ef40e2cea695" />
+
+# Cub3D
 
 Este projeto faz parte do currículo da [42](https://42.fr) e tem como objetivo a criação de um **motor gráfico 3D simples**, inspirado no Wolfenstein 3D, utilizando **raycasting** e a biblioteca **MiniLibX**.
 
